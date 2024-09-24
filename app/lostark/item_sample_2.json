@@ -1,0 +1,27 @@
+[
+  {
+    "item_name": "奧利哈-釣魚",
+    "fee": 194,
+    "unit_of_quantity": 30,
+    "materials": [
+      {
+        "name": "魚",
+        "quantity": 100,
+        "price": 6,
+        "demand": 80
+      },
+      {
+        "name": "珍珠",
+        "quantity": 10,
+        "price": 1,
+        "demand": 40
+      },
+      {
+        "name": "奧利哈魚",
+        "quantity": 10,
+        "price": 3,
+        "demand": 10
+      }
+    ]
+  }
+]

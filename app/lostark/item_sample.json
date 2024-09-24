@@ -1,0 +1,35 @@
+[
+  {
+    "item_name": "高級船隻零件材料",
+    "required": 103,
+    "fee": 20,
+    "unit_of_quantity": 15,
+    "materials": [
+      {
+        "name": "堅硬鐵礦石",
+        "quantity": 10,
+        "price": 7,
+        "demand": 3
+      },
+      {
+        "name": "結實木材",
+        "quantity": 10,
+        "price": 11,
+        "demand": 3
+      },
+
+      {
+        "name": "沈重鐵礦石",
+        "quantity": 10,
+        "price": 3,
+        "demand": 8
+      },
+      {
+        "name": "軟木材",
+        "quantity": 10,
+        "price": 3,
+        "demand": 8
+      }
+    ]
+  }
+]
